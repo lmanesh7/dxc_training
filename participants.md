@@ -22,4 +22,4 @@ A list of participants in CSC 195
 * Noah D. Schlager
 * Elias Mulhall
 * Yazan A. Kittaneh
-*manesh
+* manesh
